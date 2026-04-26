@@ -3,7 +3,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) to understand
 
 Objectives.
 
-Analyze customer purchase behavior.
-Identify high-spending customers.
-Determine most popular product categories.
-Detect trends and patterns in spending.
+•Analyze customer purchase behavior.
+•Identify high-spending customers.
+•Determine most popular product categories.
+•Detect trends and patterns in spending.
